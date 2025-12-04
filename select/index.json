@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ミスカサズ",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T19:16:11.146941Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミスカサズ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/01_ミスカサズ_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミスカサズ - Misukasazu",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_ミスカサズ_-_Misukasazu_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミスカサズ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ミスカサズ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
